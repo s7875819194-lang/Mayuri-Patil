@@ -1,4 +1,5 @@
-Idea Title: Smart Hospital Management Team Members :1.Mayuri Patil 2.Pranjali Walke Problem Statement : A reputed general hospital has decided to computerize their operations. In the hospital many doctors are working. Personal information of doctors . The patients are admitted to the hospital into the room. They are treated by various doctors. Sometimes patients perform certain pathological tests which carried out into the labs. Identify the relationship among the entities along with the mapping cardinalities, keys in the E.R. diagram. Construct appropriate tables for E-R diagram designed with above requirements. 
+Idea Title: Smart Hospital Management Team Members :1.Mayuri Patil 2.Pranjali Walke 
+Problem Statement :creating a website of hospital management system which is useful for villages.
 
 
 Solution Approach :Develop a Hospital Management Website that : Stores Admits patients and assigns rooms Allows multiple doctors to treat patients Manages lab tests and reports Centralizes hospital database

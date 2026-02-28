@@ -1,4 +1,10 @@
-Idea Title: Smart Hospital Management Team Members :1.Mayuri Patil 2.Pranjali Walke Problem Statement : A reputed general hospital has decided to computerize their operations. In the hospital many doctors are working. Personal information of doctors . The patients are admitted to the hospital into the room. They are treated by various doctors. Sometimes patients perform certain pathological tests which carried out into the labs. Identify the relationship among the entities along with the mapping cardinalities, keys in the E.R. diagram. Construct appropriate tables for E-R diagram designed with above requirements. Solution Approach :Develop a Hospital Management Website that : Stores Admits patients and assigns rooms Allows multiple doctors to treat patients Manages lab tests and reports Centralizes hospital database Tech Stack : Frontend HTML CSS JavaScript Backend* Node.js / PHP MySQL Installation Steps :
+Idea Title: Smart Hospital Management Team Members :1.Mayuri Patil 2.Pranjali Walke Problem Statement : A reputed general hospital has decided to computerize their operations. In the hospital many doctors are working. Personal information of doctors . The patients are admitted to the hospital into the room. They are treated by various doctors. Sometimes patients perform certain pathological tests which carried out into the labs. Identify the relationship among the entities along with the mapping cardinalities, keys in the E.R. diagram. Construct appropriate tables for E-R diagram designed with above requirements. 
+
+
+Solution Approach :Develop a Hospital Management Website that : Stores Admits patients and assigns rooms Allows multiple doctors to treat patients Manages lab tests and reports Centralizes hospital database
+
+
+Tech Stack : Frontend HTML CSS JavaScript Backend* Node.js / PHP MySQL Installation Steps :
 
 Install frontend tools -Install a browser (Chrome, Edge, etc.) -Install code editor like Visual Studio Code 2.Install backend software -Install Node.js -Check installation using command -node -v 3.Install database Install MySQL Create database for hospital system 4.Create project folder -Make a folder for hospital project -Open it in Visual Studio Code
 Install project dependencies Run in terminal: npm init -y npm install express mysql cors body-parser
